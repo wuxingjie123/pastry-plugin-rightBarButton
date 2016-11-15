@@ -10,8 +10,8 @@
 
 @interface PTRightBarButton : CDVPlugin
 
-- (void)rightBarButtonItem:(CDVInvokedUrlCommand *)command;
 
+- (void)rightBarButtonItem:(CDVInvokedUrlCommand *)command;
 
 
 @end
